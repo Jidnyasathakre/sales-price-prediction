@@ -1,8 +1,25 @@
 # Sales Price Prediction System
 
-A comprehensive machine learning and data visualization application for predicting sales prices using Streamlit.
+A comprehensive machine learning and data visualization web application built using Streamlit for predicting real estate sales prices. This project demonstrates the full ML lifecycle, including data analysis, feature exploration, model training, evaluation, and deployment in an interactive interface.
+
+## Overview
+
+This application enables users to:
+
+- Explore and understand housing datasets
+- Visualize relationships between features
+- Train multiple machine learning models
+- Compare model performance
+- Predict property prices interactively
+
+It is designed as an end-to-end ML project, making it ideal for learning, demonstration, and portfolio purposes.
 
 ## Features
+
+### Data Exploration
+- Dataset preview and summary statistics
+- Missing value inspection
+- Correlation matrix analysis for feature relationships
 
 -  **Data Exploration**: Complete dataset overview with statistics and correlation analysis
 -  **Data Visualization**: 
@@ -17,8 +34,15 @@ A comprehensive machine learning and data visualization application for predicti
   - Gradient Boosting Regressor
   - Decision Tree Regressor
   - Support Vector Regressor (SVR)
--  **Price Prediction**: Interactive interface to predict prices for new properties
--  **Model Comparison**: Compare multiple models side-by-side
+-  **Price Prediction**:
+   - Interactive UI for entering property details
+   - Real-time price prediction based on trained models
+
+-  **Model Comparison**:
+   - Train multiple models simultaneously
+   - Compare performance metrics side-by-side
+   - Identify the best-performing model
+
 
 ## Installation
 
@@ -74,6 +98,17 @@ The sample dataset includes the following features:
 - **Plotly**: Interactive 3D visualizations
 - **Matplotlib & Seaborn**: Additional plotting capabilities
 
+## Use Cases
+- Real estate price estimation
+- Machine learning project demonstration
+- Data visualization practice
+- Portfolio project for data science roles
+
+## Future Improvements
+- Hyperparameter tuning
+- Model persistence and loading
+- User authentication system
+  
 ## Author
 
 Jidnyasa Thakre
