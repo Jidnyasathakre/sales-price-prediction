@@ -4,12 +4,12 @@ A comprehensive machine learning and data visualization application for predicti
 
 ## Features
 
-- 📊 **Data Exploration**: Complete dataset overview with statistics and correlation analysis
-- 📈 **Data Visualization**: 
+-  **Data Exploration**: Complete dataset overview with statistics and correlation analysis
+-  **Data Visualization**: 
   - 2D visualizations (histograms, scatter plots, box plots)
   - 3D interactive graphs using Plotly
   - Pair plots for feature relationships
-- 🤖 **Machine Learning Models**:
+-  **Machine Learning Models**:
   - Linear Regression
   - Ridge Regression
   - Lasso Regression
@@ -17,8 +17,8 @@ A comprehensive machine learning and data visualization application for predicti
   - Gradient Boosting Regressor
   - Decision Tree Regressor
   - Support Vector Regressor (SVR)
-- 🔮 **Price Prediction**: Interactive interface to predict prices for new properties
-- 📋 **Model Comparison**: Compare multiple models side-by-side
+-  **Price Prediction**: Interactive interface to predict prices for new properties
+-  **Model Comparison**: Compare multiple models side-by-side
 
 ## Installation
 
@@ -74,7 +74,7 @@ The sample dataset includes the following features:
 - **Plotly**: Interactive 3D visualizations
 - **Matplotlib & Seaborn**: Additional plotting capabilities
 
-## License
+## Author
 
-This project is open source and available for educational purposes.
+Jidnyasa Thakre
 
